@@ -30,6 +30,7 @@ Envie um e-mail para franbasagni@gmail.com ou conecte-se comigo no LinkedIn.
 <code><img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/cypressio/cypressio-original.svg" title = "Cypress"/></code>
 <code><img width="40px" src="https://img.icons8.com/ios/50/000000/sql.png" title = "SQL"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
+<code><img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/gitlab/gitlab-original.svg" title = "GITLAB"/></code>
 <code><img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/bitbucket/bitbucket-original.svg" title = "Bitbucket"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" title = "VSCODE"/></code>
 <code><img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/intellij/intellij-original.svg" title = "Intellij"/></code>
