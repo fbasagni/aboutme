@@ -1,7 +1,7 @@
 ## Olá!!!! 🌟
 
 
-Sou a Francine Basagni, 32 anos, de São Bernardo do Campo/SP, e estou mergulhando no universo da Qualidade de Software. Estou aqui para compartilhar minha jornada, desafios e aprendizados!  (🙃)
+Sou a Francine Basagni, 33 anos, de São Bernardo do Campo/SP, e estou mergulhando no universo da Qualidade de Software. Estou aqui para compartilhar minha jornada, desafios e aprendizados!  (🙃)
 
 
 </div>
