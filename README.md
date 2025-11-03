@@ -16,6 +16,13 @@ Me mande uma mensagem — adoro trocar ideias sobre QA, tecnologia e carreira! �
 
 ---
 
+### 🎓 Formação Acadêmica
+
+- ✅ Pós-Graduação em **Testes de Software**
+- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** — PUCPR  
+
+---
+
 ### ⚛️ Tecnologias e Ferramentas
 
 Ferramentas que utilizo e estudo para construir automações, pipelines e soluções de qualidade:
